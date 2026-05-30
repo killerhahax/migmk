@@ -1,3 +1,3 @@
 return {
-    ["frisemain"] = { password = "123", hwid = "905bd0453baaf1b823aa245ee5fa2af76c4a9cee5b1d2b56fe41ae6a10b752e516de399a4bc39d9fb3a89b81080fffc65c01422d6c51cda9ec9de4197c0758a6" },
+    ["frisemainn"] = { password = "123", hwid = "905bd0453baaf1b823aa245ee5fa2af76c4a9cee5b1d2b56fe41ae6a10b752e516de399a4bc39d9fb3a89b81080fffc65c01422d6c51cda9ec9de4197c0758a6" },
 }
